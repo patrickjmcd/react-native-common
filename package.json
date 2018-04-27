@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0"
+  },
+  "peerDependencies": {
+    "react": "^16.3.2",
+    "react-native": "^0.55.3"
+  },
+  "name": "react-native-common",
+  "version": "1.0.0",
+  "description": "Common objects for react-native",
+  "main": "index.js",
+  "repository": "https://github.com/patrickjmcd/react-native-common",
+  "author": "Patrick McDonagh",
+  "license": "MIT",
+  "private": false
+}
