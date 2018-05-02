@@ -5,3 +5,5 @@ export * from './src/Header';
 export * from './src/Input';
 export * from './src/Spinner';
 export * from './src/Confirm';
+export * from './src/InputWithButton';
+export * from './src/ValueDisplay';
