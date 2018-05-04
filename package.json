@@ -9,7 +9,7 @@
     "react-native": "^0.55.3"
   },
   "name": "react-native-common",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "description": "Common objects for react-native",
   "main": "index.js",
   "repository": "https://github.com/patrickjmcd/react-native-common",
