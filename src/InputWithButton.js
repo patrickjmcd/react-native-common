@@ -29,7 +29,7 @@ const InputWithButton = ({ label, onChangeText, value, placeholder,
 
 const styles = {
     labelStyle: {
-        fontSize: 18,
+        fontSize: 14,
         paddingLeft: 20,
         flex: 3
     },
@@ -37,7 +37,7 @@ const styles = {
         color: '#000',
         paddingRight: 5,
         paddingLeft: 5,
-        fontSize: 18,
+        fontSize: 16,
         lineHeight: 23,
         flex: 2
     },
