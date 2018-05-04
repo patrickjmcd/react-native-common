@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text } from 'react-native';
 
-const ValueDisplay = ({ label, value }) => {
+const ValueDisplayNoUnits = ({ label, value }) => {
     const { labelStyle, valueStyle, containerStyle } = styles;
     return (
         <View style={containerStyle}>
@@ -36,4 +36,4 @@ const styles = {
 };
 
 
-export { ValueDisplay };
+export { ValueDisplayNoUnits };

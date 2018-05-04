@@ -7,3 +7,4 @@ export * from './src/Spinner';
 export * from './src/Confirm';
 export * from './src/InputWithButton';
 export * from './src/ValueDisplay';
+export * from './src/ValueDisplayNoUnits';
